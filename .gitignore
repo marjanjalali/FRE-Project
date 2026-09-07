@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+
+codal_reports/
+codal_reports1/
+temp_dir/
+
+debug_output.txt
+debug_pdf.txt
+
+json_output/
