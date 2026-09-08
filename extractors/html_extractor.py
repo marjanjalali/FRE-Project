@@ -3,7 +3,6 @@ from pathlib import Path
 from bs4 import BeautifulSoup, NavigableString, Tag
 import re
 
-
 # =========================================================
 # Configuration
 # =========================================================
@@ -24,7 +23,6 @@ IGNORED_INPUT_TYPES = {
     "checkbox",
     "radio",
 }
-
 
 # =========================================================
 # Text helpers
